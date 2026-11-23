@@ -63,8 +63,8 @@ const TEAM = [
   {
     name: "Stan",
     role: "Editor",
-    city: "TBD",
-    country: "TBD",
+    city: "New York",
+    country: "United States",
     timezone: "America/New_York",
   },
 
