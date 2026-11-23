@@ -63,17 +63,17 @@ const TEAM = [
   {
     name: "Stan",
     role: "Editor",
-    city: "TBD",            // TODO: Update once confirmed
-    country: "TBD",            // TODO: Update once confirmed
-    timezone: "UTC",            // TODO: Replace with correct IANA timezone
+    city: "TBD",
+    country: "TBD",
+    timezone: "America/New_York",
   },
 
   {
-    name: "Dalmer",
+    name: "Dalamar",
     role: "Editor",
-    city: "Paris",            // TODO: Update once confirmed
-    country: "Italy",            // TODO: Update once confirmed
-    timezone: "UTC",            // TODO: Replace with correct IANA timezone
+    city: "Milan",
+    country: "Italy",
+    timezone: "Europe/Rome",
   },
 
 ];
