@@ -1,0 +1,57 @@
+{
+  "departments": {
+    "editing": {
+      "label": "Editing",
+      "members": [
+        {
+          "id": "ed-001",
+          "name": "Jesbin Jenet",
+          "city": "Bengaluru",
+          "country": "India",
+          "timezone": "Asia/Kolkata",
+          "role": "Lead Editor"
+        },
+        {
+          "id": "ed-002",
+          "name": "Carlos Rivera",
+          "city": "Mexico City",
+          "country": "Mexico",
+          "timezone": "America/Mexico_City",
+          "role": "Senior Editor"
+        },
+        {
+          "id": "ed-003",
+          "name": "Sophie Laurent",
+          "city": "Paris",
+          "country": "France",
+          "timezone": "Europe/Paris",
+          "role": "Colour Grader"
+        },
+        {
+          "id": "ed-004",
+          "name": "James Whitfield",
+          "city": "London",
+          "country": "United Kingdom",
+          "timezone": "Europe/London",
+          "role": "Motion Graphics"
+        },
+        {
+          "id": "ed-005",
+          "name": "Aiko Tanaka",
+          "city": "Tokyo",
+          "country": "Japan",
+          "timezone": "Asia/Tokyo",
+          "role": "Sound Editor"
+        },
+        {
+          "id": "ed-006",
+          "name": "Priya Sharma",
+          "city": "Mumbai",
+          "country": "India",
+          "timezone": "Asia/Kolkata",
+          "role": "Assistant Editor"
+        }
+      ]
+    }
+  }
+}
